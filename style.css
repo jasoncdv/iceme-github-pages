@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+}
+
+#MyFooter {
+	color: rgb(230,230,230);
+	background-color:black;
+	padding-top: 3em;
+	padding-bottom: 3em;
+
+}
+#MyFooter a {
+	font-size: 50px;
+	color:rgb(220,220,220);
+
+}
+#MyFooter a:hover{
+	color:blue;
+}
+
+
+
+.vertical-spacer{
+	height: 10em;
+}
+
+}
+
+#teaser{
+	background-image: url('Images/grid.jpg');
+
+}
+
+#Wrapper{
+	background-image: url('Images/icecream.jpg');
+	height:500px;
+	background-size: cover;
+	padding-top: 50px;
+	text-align: center;
+	color:white;
+	text-shadow: 0 0 20px rgba(0,0,0,.8);
+}
+  
